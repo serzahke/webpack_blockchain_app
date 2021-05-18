@@ -1,0 +1,5 @@
+@import url(style-fa.css);
+.hello {
+    color: red;
+    background: url('../img/icon.svg');
+}
